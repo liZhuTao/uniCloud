@@ -1,0 +1,1 @@
+<view style="margin:0 20rpx;" class="data-v-7945a3e2"><view class="notice data-v-7945a3e2"><block wx:for="{{noticeList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="data-v-7945a3e2"><text class="notice-title data-v-7945a3e2">{{item.title}}</text><text class="notice-describe data-v-7945a3e2">{{item.describe}}</text></view></block></view></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "湖工二手go",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "ticket": "/pages/index/components/ticket",
+    "classify": "/pages/index/components/classify",
+    "content": "/pages/index/components/content",
+    "article": "/pages/index/components/article"
+  }
+}

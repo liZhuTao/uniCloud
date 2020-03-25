@@ -1,0 +1,1 @@
+<view><search vue-id="57282994-1" banner="{{banner}}" bind:__l="__l"></search><ticket vue-id="57282994-2" bind:__l="__l"></ticket><classify vue-id="57282994-3" bind:__l="__l"></classify><content vue-id="57282994-4" bind:__l="__l"></content><article vue-id="57282994-5" bind:__l="__l"></article></view>
